@@ -28,7 +28,7 @@ The project aims to automate the extraction of data from a YouTube channel, tran
 ## Project Steps
 
 ### Step 1: Web Scraping
-In this step, the YouTube API and Python were used to extract data from a specific YouTube channel. This data typically includes video metadata such as titles, views, likes, dislikes, and comments.
+In this step, the YouTube API and Python were used to extract data from a specific YouTube channel. This data typically includes video metadata such as titles, views, likes, Title,Published date ...
 
 ### Step 2: CSV File Creation
 After extracting the data, it was transformed and cleaned using the Pandas library in Python. Once the data was in a structured and organized format, it was exported to a CSV file. This CSV file serves as an intermediary data storage format.
