@@ -1,4 +1,4 @@
-# ETL Project Youtube-data-pipeline\
+# ETL Project : Youtube-data-pipeline
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -13,17 +13,17 @@
 6. [Contacts](#contacts)
 
 ## Introduction
-This README document provides an overview of an ETL (Extract, Transform, Load) project developed to extract data from a YouTube channel using the YouTube API and Python, perform data transformations with the Pandas library, export the transformed data to a CSV file, load the data into Snowflake data warehouse, and create a reporting dashboard using Power BI.
+This `README` document provides an overview of an `ETL` (Extract, Transform, Load) project developed to extract data from a `YouTube` channel using the YouTube API and `Python`, perform data transformations with the `Pandas` library, export the transformed data to a CSV file, load the data into `Snowflake` data warehouse, and create a reporting dashboard using `Power BI`.
 
 ## Project Overview
 The project aims to automate the extraction of data from a YouTube channel, transform the data into a suitable format, and make it available for analysis through a Power BI dashboard. By following a structured ETL process, this project streamlines data retrieval, preparation, and visualization.
 
 ## Tools Used
-- Python: Used for scripting and data manipulation.
-- Pandas: Employed for data transformation and manipulation.
-- YouTube API: Utilized for data extraction from the YouTube channel.
-- Snowflake Data Warehouse: Used as the central repository for storing the transformed data.
-- Power BI: Employed for creating interactive dashboards and reports.
+- `Python`: Used for scripting and data manipulation.
+- `Pandas`: Employed for data transformation and manipulation.
+- `YouTube API`: Utilized for data extraction from the YouTube channel.
+- `Snowflake` Data Warehouse: Used as the central repository for storing the transformed data.
+- `Power BI`: Employed for creating interactive dashboards and reports.
 
 ## Project Steps
 
@@ -43,7 +43,7 @@ Here is the workflow (data pipeline) of  this project
 
 ![Texte alternatif de l'image](images/data_pipeline.png)
 
-The dashboard : 
+**The dashboard :** 
 
 ![Texte alternatif de l'image](images/dash.png)
 
