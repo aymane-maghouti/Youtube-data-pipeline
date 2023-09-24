@@ -48,7 +48,7 @@ Here is the workflow (data pipeline) of  this project
 ![Texte alternatif de l'image](images/dash.png)
 
 
-## AcknowledgmentWe 
+## Acknowledgment
 I would like to express our gratitude to the following resources for their valuable contributions to this project:
 
 The official documentation of `Python` language and `Pandas` library.
